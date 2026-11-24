@@ -14,6 +14,7 @@ Run the following commands from the repository root.
 The table lists the expected output of each script.
 
 | Manuscript result | Command | Expected output |
+| --- | --- | --- |
 | Fig. 2 | `python3 plot_full_energy_landscape.py` | Figure_Full_Landscape.png |
 | Fig. 3 | `python plot_two_Y.py -g 45 -o Figure_Kappa_Omega_45.png` | Figure_Kappa_Omega_45.png |
 | Fig. 4 | `python3 figure4_plot_phase_diagram_full_hierachiy.py` |  PhaseDiagram_Full.png |
