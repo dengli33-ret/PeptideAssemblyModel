@@ -21,7 +21,7 @@ The table lists the expected output of each script.
 | Fig. 5a | `python3 figure5a_plot_pitch_radius_evolution.py`|  Figure_Curves.png |
 | Fig. 5b | `python3 figure5b_fit_global_optimization.py` | Figure_Fitted_Perfect_Match.png |
 | Fig. 6a | `python3 figure6a_plot_radius_vs_gamma_power4.py` | Radius_vs_Gamma_Universal.png |
-| Fig. 6b | `python3 figure5b_extract_gamma_from_radius.py` | Figure_MasterCurve_3Points.png |
+| Fig. 6b | `python3 figure6b_extract_gamma_from_radius.py` | Figure_MasterCurve_3Points.png |
 | Fig. S1 | `python3 figureS1_fit_pitch_evolution.py` | Figure_Fit_Reduced_Data.png |
 
 
